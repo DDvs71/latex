@@ -1,6 +1,6 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.1.17)  17 JAN 2023 13:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.1.17)  17 JAN 2023 14:16
 entering extended mode
- restricted \write18 enabled.
+ \write18 enabled.
  %&-line parsing enabled.
 **2-3.tex
 (./2-3.tex
@@ -82,7 +82,7 @@ File: l3backend-pdftex.def 2020-01-29 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count194
 \l__pdf_internal_box=\box47
 )
-No file 2-3.aux.
+(./2-3.aux)
 \openout1 = `2-3.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
@@ -102,6 +102,7 @@ LaTeX Font Info:    ... okay on input line 5.
 LaTeX Info: Redefining \degres on input line 5.
 LaTeX Info: Redefining \dots on input line 5.
 LaTeX Info: Redefining \up on input line 5.
+
 
 ! Package inputenc Error: Unicode character ́ (U+0301)
 (inputenc)                not set up for use with LaTeX.
@@ -135,8 +136,8 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./2-3.aux) ) 
 Here is how much of TeX's memory you used:
- 2182 strings out of 481223
- 32129 string characters out of 5914619
+ 2184 strings out of 481223
+ 32145 string characters out of 5914619
  324086 words of memory out of 5000000
  19183 multiletter control sequences out of 15000+600000
  403430 words of font info for 27 fonts, out of 8000000 for 9000
