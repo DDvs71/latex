@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.1.17)  17 JAN 2023 14:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.1.17)  17 JAN 2023 14:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -82,7 +82,7 @@ File: l3backend-pdftex.def 2020-01-29 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count194
 \l__pdf_internal_box=\box47
 )
-No file ls-man.aux.
+(./ls-man.aux)
 \openout1 = `ls-man.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
@@ -102,279 +102,275 @@ LaTeX Font Info:    ... okay on input line 7.
 LaTeX Info: Redefining \degres on input line 7.
 LaTeX Info: Redefining \dots on input line 7.
 LaTeX Info: Redefining \up on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 9.
+
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.154               (overrides QUOTING_
+l.156               (overrides QUOTING_
                                        STYLE environment variable) \\
 ? 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 154.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 154.
 ! Undefined control sequence.
 <recently read> \n 
                    
-l.205 ...-1     list one file per line.  Avoid '\n
+l.207 ...-1     list one file per line.  Avoid '\n
                                                   ' with -q or -b \\
 ? 
 ! Double superscript.
 <recently read> ^
                  
-l.205 ...1     list one file per line.  Avoid '\n'
+l.207 ...1     list one file per line.  Avoid '\n'
                                                    with -q or -b \\
 ? 
 
-LaTeX Warning: Command \textcopyright invalid in math mode on input line 244.
+LaTeX Warning: Command \textcopyright invalid in math mode on input line 246.
 
 
-LaTeX Warning: Command \textcopyright invalid in math mode on input line 244.
+LaTeX Warning: Command \textcopyright invalid in math mode on input line 246.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.254 
+l.256 
       
 ? 
 Missing character: There is no © in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
-
- []
-
-
-Overfull \hbox (66.58209pt too wide) in paragraph at lines 9--254
+Overfull \hbox (66.58209pt too wide) in paragraph at lines 9--256
 \OT1/cmr/m/n/10 shell-escape, shell-escape-always, c, es-cape (over-rides QUOTI
 NG$[]\OML/cmm/m/it/10 TYLEenvironmentvariable\OT1/cmr/m/n/10 )[] 
  []
 
 
-Overfull \hbox (59.43082pt too wide) in paragraph at lines 9--254
+Overfull \hbox (59.43082pt too wide) in paragraph at lines 9--256
 \OML/cmm/m/it/10 sortbyWORDinsteadofname \OT1/cmr/m/n/10 : \OML/cmm/m/it/10 non
 e\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@\OML/cmm/m/it/10 U\OT1/cmr/m/n/10 )\OML/c
 mm/m/it/10 ; size\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@\OML/cmm/m/it/10 S\OT1/cm
@@ -385,7 +381,7 @@ mr/m/n/10 (\OMS/cmsy/m/n/10 ^^@\OML/cmm/m/it/10 X\OT1/cmr/m/n/10 )[]
  []
 
 
-Overfull \hbox (95.79681pt too wide) in paragraph at lines 9--254
+Overfull \hbox (95.79681pt too wide) in paragraph at lines 9--256
 \OML/cmm/m/it/10 changethedefaultofusingmodificationtimes\OT1/cmr/m/n/10 ; \OML
 /cmm/m/it/10 accesstime\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@\OML/cmm/m/it/10 u\
 OT1/cmr/m/n/10 ) : \OML/cmm/m/it/10 atime; access; use\OT1/cmr/m/n/10 ; \OML/cm
@@ -394,7 +390,7 @@ m/m/it/10 changetime\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@\OML/cmm/m/it/10 c\OT1
  []
 
 
-Overfull \hbox (74.73473pt too wide) in paragraph at lines 9--254
+Overfull \hbox (74.73473pt too wide) in paragraph at lines 9--256
 \OML/cmm/m/it/10 with \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 l; WORDdetermineswh
 ichtimetoshow\OT1/cmr/m/n/10 ; \OML/cmm/m/it/10 with \OMS/cmsy/m/n/10 ^^@ ^^@\O
 ML/cmm/m/it/10 sort \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 time; sortbyWORD\OT1/cmr
@@ -402,7 +398,7 @@ ML/cmm/m/it/10 sort \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 time; sortbyWORD\OT1/cmr
  []
 
 
-Overfull \hbox (73.4714pt too wide) in paragraph at lines 9--254
+Overfull \hbox (73.4714pt too wide) in paragraph at lines 9--256
 \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 uwith \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/
 10 lt \OT1/cmr/m/n/10 : \OML/cmm/m/it/10 sortby; andshow; accesstime\OT1/cmr/m/
 n/10 ; \OML/cmm/m/it/10 with \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 l \OT1/cmr/m
@@ -411,7 +407,7 @@ m/it/10 otherwise \OT1/cmr/m/n/10 :
  []
 
 
-Overfull \hbox (466.24646pt too wide) in paragraph at lines 9--254
+Overfull \hbox (466.24646pt too wide) in paragraph at lines 9--256
 \OML/cmm/m/it/10 TheSIZEargumentisanintegerandoptionalunit\OT1/cmr/m/n/10 (\OML
 /cmm/m/it/10 example \OT1/cmr/m/n/10 : 10\OML/cmm/m/it/10 Kis\OT1/cmr/m/n/10 10
  \OMS/cmsy/m/n/10 ^^C \OT1/cmr/m/n/10 1024)\OML/cmm/m/it/10 :UnitsareK; M; G; T
@@ -421,7 +417,7 @@ n/10 1000)\OML/cmm/m/it/10 :Binaryprefixescanbeused; too \OT1/cmr/m/n/10 :
  []
 
 
-Overfull \hbox (278.56755pt too wide) in paragraph at lines 9--254
+Overfull \hbox (278.56755pt too wide) in paragraph at lines 9--256
 \OML/cmm/m/it/10 TheTIME[]TYLEargumentcanbefull \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m
 /it/10 iso; long \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 iso; iso; locale; or \OT
 1/cmr/m/n/10 + \OML/cmm/m/it/10 FORMAT:FORMATisinterpretedlikeindate\OT1/cmr/m/
@@ -429,7 +425,7 @@ n/10 (1)\OML/cmm/m/it/10 :IfFORMATisFOR \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (41.93332pt too wide) in paragraph at lines 9--254
+Overfull \hbox (41.93332pt too wide) in paragraph at lines 9--256
 \OML/cmm/m/it/10 MAT\OT1/cmr/m/n/10 1 \OML/cmm/m/it/10 < newline > FORMAT\OT1/c
 mr/m/n/10 2\OML/cmm/m/it/10 ; thenFORMAT\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 appli
 estonon \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 recentfilesandFOR \OMS/cmsy/m/n/1
@@ -437,14 +433,14 @@ estonon \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 recentfilesandFOR \OMS/cmsy/m/n/1
  []
 
 
-Overfull \hbox (278.51605pt too wide) in paragraph at lines 9--254
+Overfull \hbox (278.51605pt too wide) in paragraph at lines 9--256
 \OML/cmm/m/it/10 MAT\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 torecentfiles:TIME[]TYLEp
 refixedwith[]posix \OMS/cmsy/m/n/10 ^^@[] \OML/cmm/m/it/10 takeseffectonlyoutsi
 dethePOSIXlocale:AlsotheTIME[]TYLEenvironmentvari \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (493.29175pt too wide) in paragraph at lines 9--254
+Overfull \hbox (493.29175pt too wide) in paragraph at lines 9--256
 \OML/cmm/m/it/10 never:With \OMS/cmsy/m/n/10 ^^@ ^^@\OML/cmm/m/it/10 color \OT1
 /cmr/m/n/10 = \OML/cmm/m/it/10 auto; lsemitscolorcodesonlywhenstandardoutputisc
 onnectedtoaterminal:TheLS[]OLORSenvironmentvariablecanchangethesettings:Usethed
@@ -452,7 +448,7 @@ ircolorscommandtosetit:[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--254
+Underfull \hbox (badness 10000) in paragraph at lines 9--256
 
  []
 
@@ -461,19 +457,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--254
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5]
 (./ls-man.aux) ) 
 Here is how much of TeX's memory you used:
- 2176 strings out of 481223
- 32007 string characters out of 5914619
+ 2178 strings out of 481223
+ 32029 string characters out of 5914619
  342092 words of memory out of 5000000
  19179 multiletter control sequences out of 15000+600000
  403765 words of font info for 28 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 49i,4n,57p,130b,424s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 49i,6n,57p,130b,424s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on ls-man.pdf (5 pages, 73913 bytes).
+Output written on ls-man.pdf (5 pages, 73895 bytes).
 PDF statistics:
  40 PDF objects out of 1000 (max. 8388607)
  27 compressed objects within 1 object stream
